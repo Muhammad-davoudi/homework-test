@@ -1,0 +1,6 @@
+{
+  "name": "AI Product Intelligence",
+  "description": "AI-powered product analytics, RFM customer segmentation, and explainable business decision-support platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
